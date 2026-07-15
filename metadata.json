@@ -1,0 +1,6 @@
+{
+  "name": "Construtor Sem Limites",
+  "description": "Uma plataforma completa de licenciamento, autenticação e telemetria para extensões e softwares, com painel administrativo e simulador em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
